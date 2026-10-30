@@ -186,9 +186,10 @@ flowchart LR
 
 `Python` `Keras` `Isolation Forest` `NASA SMAP/MSL`
 
-<a href="https://github.com/Sumeet0905/Satellite-Telemetry-Anomaly-Detection-BSERC-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumeet0905&repo=Satellite-Telemetry-Anomaly-Detection-BSERC-&bg_color=0D1117&title_color=00E5FF&icon_color=A855F7&text_color=C9D1D9&border_color=30363D" alt="telemetry repo card"/>
-</a>
+<a href="https://github.com/Sumeet0905/Satellite-Telemetry-Anomaly-Detection-BSERC-"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00E5FF?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117" alt="view repository"/></a>
+  <img src="https://img.shields.io/github/languages/top/Sumeet0905/Satellite-Telemetry-Anomaly-Detection-BSERC-?style=for-the-badge&labelColor=0D1117&color=A855F7" alt="top language"/>
+  <img src="https://img.shields.io/github/last-commit/Sumeet0905/Satellite-Telemetry-Anomaly-Detection-BSERC-?style=for-the-badge&labelColor=0D1117&color=39D353" alt="last commit"/>
+  <img src="https://img.shields.io/github/stars/Sumeet0905/Satellite-Telemetry-Anomaly-Detection-BSERC-?style=for-the-badge&labelColor=0D1117&color=FFD21E" alt="stars"/>
 
 </div>
 
@@ -232,9 +233,10 @@ flowchart LR
 
 `Python` `scikit-learn` `GeoPandas` `Matplotlib` &nbsp;|&nbsp; Dec 2025 to Jan 2026
 
-<a href="https://github.com/Sumeet0905/VAYU-M-Visualization-Analysis-of-Yearly-Understanding---Migration-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumeet0905&repo=VAYU-M-Visualization-Analysis-of-Yearly-Understanding---Migration-&bg_color=0D1117&title_color=00E5FF&icon_color=A855F7&text_color=C9D1D9&border_color=30363D" alt="VAYU-M repo card"/>
-</a>
+<a href="https://github.com/Sumeet0905/VAYU-M-Visualization-Analysis-of-Yearly-Understanding---Migration-"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00E5FF?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117" alt="view repository"/></a>
+  <img src="https://img.shields.io/github/languages/top/Sumeet0905/VAYU-M-Visualization-Analysis-of-Yearly-Understanding---Migration-?style=for-the-badge&labelColor=0D1117&color=A855F7" alt="top language"/>
+  <img src="https://img.shields.io/github/last-commit/Sumeet0905/VAYU-M-Visualization-Analysis-of-Yearly-Understanding---Migration-?style=for-the-badge&labelColor=0D1117&color=39D353" alt="last commit"/>
+  <img src="https://img.shields.io/github/stars/Sumeet0905/VAYU-M-Visualization-Analysis-of-Yearly-Understanding---Migration-?style=for-the-badge&labelColor=0D1117&color=FFD21E" alt="stars"/>
 
 </div>
 
@@ -257,18 +259,20 @@ flowchart LR
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=600&color=FFD21E&center=true&vCenter=true&width=360&height=30&lines=read+applicant+features;pass+through+classifier;APPROVED+or+REJECTED" alt="loan flow"/>
 
-<a href="https://github.com/Sumeet0905/Loan_Status_Prediction_Model">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumeet0905&repo=Loan_Status_Prediction_Model&bg_color=0D1117&title_color=00E5FF&icon_color=A855F7&text_color=C9D1D9&border_color=30363D" alt="Loan Status Prediction Model"/>
-</a>
+<a href="https://github.com/Sumeet0905/Loan_Status_Prediction_Model"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00E5FF?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117" alt="view repository"/></a>
+  <img src="https://img.shields.io/github/languages/top/Sumeet0905/Loan_Status_Prediction_Model?style=for-the-badge&labelColor=0D1117&color=A855F7" alt="top language"/>
+  <img src="https://img.shields.io/github/last-commit/Sumeet0905/Loan_Status_Prediction_Model?style=for-the-badge&labelColor=0D1117&color=39D353" alt="last commit"/>
+  <img src="https://img.shields.io/github/stars/Sumeet0905/Loan_Status_Prediction_Model?style=for-the-badge&labelColor=0D1117&color=FFD21E" alt="stars"/>
 
 </td>
 <td align="center" width="50%">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=600&color=FF3D81&center=true&vCenter=true&width=360&height=30&lines=read+patient+health+metrics;estimate+risk+with+ML;LOW+%7C+MEDIUM+%7C+HIGH" alt="diabetes flow"/>
 
-<a href="https://github.com/Sumeet0905/Diabetes-Risk-Prediction-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumeet0905&repo=Diabetes-Risk-Prediction-System&bg_color=0D1117&title_color=00E5FF&icon_color=A855F7&text_color=C9D1D9&border_color=30363D" alt="Diabetes Risk Prediction System"/>
-</a>
+<a href="https://github.com/Sumeet0905/Diabetes-Risk-Prediction-System"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00E5FF?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117" alt="view repository"/></a>
+  <img src="https://img.shields.io/github/languages/top/Sumeet0905/Diabetes-Risk-Prediction-System?style=for-the-badge&labelColor=0D1117&color=A855F7" alt="top language"/>
+  <img src="https://img.shields.io/github/last-commit/Sumeet0905/Diabetes-Risk-Prediction-System?style=for-the-badge&labelColor=0D1117&color=39D353" alt="last commit"/>
+  <img src="https://img.shields.io/github/stars/Sumeet0905/Diabetes-Risk-Prediction-System?style=for-the-badge&labelColor=0D1117&color=FFD21E" alt="stars"/>
 
 </td>
 </tr>
@@ -324,17 +328,26 @@ flowchart LR
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sumeet0905&show_icons=true&border_color=30363D&bg_color=0D1117&title_color=00E5FF&icon_color=A855F7&text_color=C9D1D9&ring_color=00E5FF&count_private=true" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumeet0905&layout=compact&border_color=30363D&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="top languages"/>
+<img src="https://img.shields.io/github/followers/Sumeet0905?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0D1117&color=00E5FF" alt="followers"/>
+<img src="https://img.shields.io/github/stars/Sumeet0905/Satellite-Telemetry-Anomaly-Detection-BSERC-?style=for-the-badge&label=TELEMETRY%20STARS&labelColor=0D1117&color=FFD21E" alt="telemetry stars"/>
+<img src="https://img.shields.io/github/stars/Sumeet0905/VAYU-M-Visualization-Analysis-of-Yearly-Understanding---Migration-?style=for-the-badge&label=VAYU-M%20STARS&labelColor=0D1117&color=FFD21E" alt="vayu-m stars"/>
+
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=Sumeet0905&background=0D1117&ring=00E5FF&fire=FFD21E&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&stroke=30363D&border=30363D" alt="streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumeet0905&bg_color=0D1117&color=00E5FF&line=A855F7&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&title_color=00E5FF" alt="activity graph" width="95%"/>
+<br/><br/>
 
+<img src="https://ghchart.rshah.org/00E5FF/Sumeet0905" alt="contribution chart" width="95%"/>
+
+<!--
+  OPTIONAL: contribution snake.
+  1) Add snake.yml to .github/workflows/ in this repo
+  2) Actions tab -> "Generate Snake Animation" -> Run workflow
+  3) Once the "output" branch exists, delete these comment markers:
 <br/>
-
-<!-- Contribution snake: shows after you add snake.yml and run it once. See setup notes. -->
 <img src="https://raw.githubusercontent.com/Sumeet0905/Sumeet0905/output/github-snake-dark.svg" alt="contribution snake" width="100%"/>
+-->
 
 </div>
 
